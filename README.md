@@ -1,0 +1,2 @@
+# pyspark_springcloud_gaokao_rec2024
+计算机毕业设计SpringCloud+大模型微服务高考志愿填报推荐系统 高考大数据 SparkML机器学习 深度学习 人工智能 Python爬虫 知识图谱
